@@ -1,7 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:uts_c14210093/home.dart';
 
 class SeeAllScreen extends StatelessWidget {
   var arrgambar = [];
